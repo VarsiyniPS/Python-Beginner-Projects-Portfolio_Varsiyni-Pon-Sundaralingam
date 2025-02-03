@@ -1,6 +1,6 @@
-Meghna=input("Meghna died or not? ")
-if(Meghna == "Died"):
-    print("Surya meets Priya")
+Meghna=input("Meghna passed final exams or not? ")
+if(Meghna == "Passed"):
+    print("Meghna Graduates!")
 else:
-    print("Surya weds Meghna")
+    print("Meghna must redo courses")
     
